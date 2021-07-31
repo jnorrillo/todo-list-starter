@@ -1,0 +1,24 @@
+.todoWrapper {
+    padding: 8px;
+}
+
+.todoItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 4px;
+
+    &:hover {
+        background-color: #2fc7be;
+    }
+}
+
+.title {
+    flex: 1;
+    text-align: left;
+    padding: 8px;
+
+    &.done {
+        text-decoration: line-through;
+    }
+}
