@@ -1,0 +1,9 @@
+.footer {
+    background: cyan;
+    border: 1px solid green;
+}
+
+.negrita { 
+    font-weight: bold;
+    color: red;
+}

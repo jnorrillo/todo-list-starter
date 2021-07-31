@@ -1,0 +1,9 @@
+
+.header {
+    background: yellow;
+    border: 1px solid darkgray;
+}
+.negrita { 
+    font-weight: bold;
+    color: blue;
+}

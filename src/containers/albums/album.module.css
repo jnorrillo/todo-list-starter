@@ -1,0 +1,15 @@
+.container {
+
+}
+
+.item {
+    display: flex;
+}
+
+.item img {
+    margin-right: 12px;
+}
+
+.item h3 {
+    color: green;
+}
