@@ -5,8 +5,8 @@ import { TodoList } from "./todo/todo-list";
 export const Main = () => {
     return  (
         <div>
-           {/* <Album /> */}
-           <TodoList />
+           <Album albumId={1} />
+           {/* <TodoList /> */}
         </div>
     )
 }
